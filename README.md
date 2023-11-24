@@ -5,7 +5,7 @@
 
 
 ## 2 Tip Calculator
-[Click_Here](https://replit.com/@reyhanshayeste/tip-calculator-start?v=1)
+[Click_Here](https://replit.com/@reyhanshayeste/tip-calculator-start?v=1_blank)
 
 
 ## 1 Band Name Generator
