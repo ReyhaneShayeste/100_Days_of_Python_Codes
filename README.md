@@ -2,7 +2,8 @@
 
 # Beginner Projects
 
-
+## 3 Treasure Hunt
+[Click_Here](https://replit.com/@reyhanshayeste/treasure-island-start?v=1)
 
 ## 2 Tip Calculator
 [Click_Here](https://replit.com/@reyhanshayeste/tip-calculator-start?v=1_blank)
