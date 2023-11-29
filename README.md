@@ -2,6 +2,9 @@
 
 # Beginner Projects
 
+## 5 Password Generator
+[Click_Here](https://replit.com/@reyhanshayeste/password-generator-start?v=1)
+
 ## 4 Rock, paper, scissors
 [Click_Here](https://replit.com/@reyhanshayeste/rock-paper-scissors-start-1?v=1)
 
