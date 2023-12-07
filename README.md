@@ -3,6 +3,9 @@
 # Beginner Projects
 #
 #
+## 10 BlackJack
+[click_here](https://replit.com/@reyhanshayeste/blackjack-start)
+
 ## 9 Calculator
 [click_here](https://replit.com/@reyhanshayeste/calculator-final?v=1)
 
