@@ -1,9 +1,14 @@
 # 100_Days_of_Python_Codes
 
+
+#
+# Intermediate Projects
+#
+## 13 Coffee Machine
+[Click_Here](https://replit.com/@reyhanshayeste/oop-coffee-machine-start?v=1)
+
 # Beginner Projects
 #
-#
-
 ## 12 Higher or Lower Game
 [click_here](https://replit.com/@reyhanshayeste/higher-lower-start-1?v=1)
 
