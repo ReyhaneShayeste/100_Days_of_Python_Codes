@@ -4,6 +4,9 @@
 #
 # Intermediate Projects
 #
+## 14 Quiz Game
+[Click_Here](https://replit.com/@reyhanshayeste/quiz-game-start?v=1)
+
 ## 13 Coffee Machine
 [Click_Here](https://replit.com/@reyhanshayeste/oop-coffee-machine-start?v=1)
 
